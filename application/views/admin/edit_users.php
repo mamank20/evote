@@ -21,19 +21,19 @@
               <form action="" method="post">
                 <div class="form-group">
                   <label>Nama Lengkap</label>
-                  <input type="text" class="form-control" name="nama" value="<?php echo $data_users['nama'] ?>">
+                  <input type="text" class="form-control" name="nama" value="#">
                 </div>
                 <div class="form-group">
                   <label>Username</label>
-                  <input type="text" class="form-control" name="username" value="<?php echo $data_users['username'] ?>">
+                  <input type="text" class="form-control" name="username" value="#">
                 </div>
                 <div class="form-group">
                   <label>Password</label>
-                  <input type="text" class="form-control" name="password_baru" value="<?php echo $data_users['password'] ?>">
+                  <input type="text" class="form-control" name="password_baru" value="#">
                 </div>
                 <div class="form-group">
                   <label>Program Studi</label>
-                  <input type="text" class="form-control" name="prodi_baru" value='<?php echo $data_users['prodi'] ?>'>
+                  <input type="text" class="form-control" name="prodi_baru" value="#">
                 </div>
                 <div class="card-footer text-right">
                   <button class="btn btn-primary mr-1" type="submit" name="submit">Submit</button>
@@ -46,4 +46,5 @@
         </div>
       </div>
     </div>
+  </section>
 </div>

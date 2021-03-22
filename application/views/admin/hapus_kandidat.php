@@ -13,7 +13,7 @@
 
         <div class="card-body">
           <form action="" method="post">
-            <h5 class="card-title">Hapus Kandidat atas Nama : namakandidat ?</h5>
+            <h5 class="card-title">Hapus Kandidat atas Nama : <?= base_url('#'); ?></h5>
             <button type="submit" name="hapus" class="btn btn-danger mt-3">Hapus</button>
             <a href="<?= base_url('admin/kandidat'); ?>" class="btn btn-warning mt-3">Kembali</a>
           </form>

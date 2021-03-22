@@ -25,11 +25,11 @@
                 </div>
                 <div class="section-title mt-1">Nama Calon Ketua dan Wakil Ketua</div>
                 <div class="form-group">
-                  <input type="text" class="form-control" name="nama" placeholder="Ex : Kobul - Culim">
+                  <input type="text" class="form-control" name="nama" placeholder="Ex : Ipin - Upin">
                 </div>
                 <div class="section-title">Visi dan Misi</div>
                 <div class="form-group">
-                  <textarea class="form-control" name="visi-misi" placeholder="Ex : Mengapa harus pilih saya kalau yang lain lebih bagus daripada saya"></textarea>
+                  <textarea class="form-control" name="visi-misi" placeholder="Ex : Mengapa harus pilih saya"></textarea>
                 </div>
                 <div class="section-title">Foto</div>
                 <div class="custom-file">

@@ -32,6 +32,28 @@
                     </div>
                   </div>
                 </div>
+                <div class="col-md-4">
+                  <div class="card" style="width: 18rem">
+                    <img class="card-img-top" src="<?= base_url(); ?>assets/img/paslon.jpg" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title text-center">Nama Kandidat</h5>
+                      <div class="text-center">
+                        <a href="<?= base_url('admin/hapus_kandidat'); ?>" class="btn btn-danger">Hapus</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-4">
+                  <div class="card" style="width: 18rem">
+                    <img class="card-img-top" src="<?= base_url(); ?>assets/img/paslon.jpg" alt="Card image cap">
+                    <div class="card-body">
+                      <h5 class="card-title text-center">Nama Kandidat</h5>
+                      <div class="text-center">
+                        <a href="<?= base_url('admin/hapus_kandidat'); ?>" class="btn btn-danger">Hapus</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>

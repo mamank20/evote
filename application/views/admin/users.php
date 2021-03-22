@@ -12,7 +12,6 @@
 
     <div class="section-body">
 
-
       <div class="row">
         <div class="col-12">
           <div class="card">
@@ -20,7 +19,7 @@
               <div class="col-md-12">
                 <h4 style="text-align: center !important;">Data Akun Pengguna</h4>
                 <a href="<?= base_url('admin/tambah_user'); ?>" class="btn btn-primary">Tambah User</a>
-                <a href="<?= base_url('admin/export_user'); ?>" target="_blank" class="btn btn-warning float-right">Export to Excel</a>
+                <a href="<?= base_url('admin/export_user'); ?>" target="_blank" class="btn btn-warning float-right">Export to Pdf</a>
                 <a href="<?= base_url('admin/reset_status'); ?>" target="_blank" class="btn btn-warning float-right">Reset Status</a>
               </div>
             </div>
